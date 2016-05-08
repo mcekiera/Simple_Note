@@ -1,6 +1,6 @@
 #Simple Note
 
-<b>Simple Text Editor<b> with basic functionality:
+<b>Simple Text Editor</b> with basic functionality:
 - writing, saving, loading printing of .txt files
 - changing font family and size for whole document,
 - bold and italic text,
